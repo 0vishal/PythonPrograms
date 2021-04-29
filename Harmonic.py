@@ -1,8 +1,10 @@
+'''
 @Author: Vishal Salaskar
 @Date: 2021-02-29 
 @Last Modified by: Vishal Salaskar
 @Last Modified time: 2021-02-29 
 @Title : To get the Nth Harmonic number
+'''
 
 #To get the Nth Harmonic number
 from fractions import Fraction
