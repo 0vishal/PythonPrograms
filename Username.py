@@ -1,8 +1,10 @@
+'''
 @Author: Vishal Salaskar
 @Date: 2021-02-29 
 @Last Modified by: Vishal Salaskar
 @Last Modified time: 2021-02-29 
 @Title : To Print USername with String 
+'''
 
 #To get the username with string
 try:
