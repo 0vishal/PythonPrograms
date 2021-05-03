@@ -1,0 +1,31 @@
+{
+       "addressbook": [
+              {
+                     "first_name": "Vishal",
+                     "last_name": "Salaskar",
+                     "address": "Pantnagar nagar",
+                     "city": "Mumbai",
+                     "state": "Maharashtra",
+                     "zip": "400075",
+                     "phone_number": "08624124334"
+              },
+              {
+                     "first_name": "Sarvesh",
+                     "last_name": "Desai",
+                     "address": "Laxmi nagar",
+                     "city": "Mumbai",
+                     "state": "Maharashtra",
+                     "zip": "400073",
+                     "phone_number": "0943424323"
+              },
+              {
+                     "first_name": "Siddhesh",
+                     "last_name": "sharma",
+                     "address": "Kurla",
+                     "city": "Mumbai",
+                     "state": "Maharastra",
+                     "zip": "404663",
+                     "phone_number": "0759518295"
+              }
+       ] 
+}
